@@ -7,8 +7,9 @@ function List(){
     return (
         <div className="list">
            
-            <ChatList></ChatList>
+            
             <UserInfo></UserInfo>
+            <ChatList></ChatList>
         </div>
     )
 }
